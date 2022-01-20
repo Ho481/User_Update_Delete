@@ -1,0 +1,33 @@
+.breadcrumb-margin {
+    margin-bottom: 16px;
+}
+
+.alert-box {
+    padding: 20px;
+}
+.alert-message-margin {
+    margin: 5px;
+}
+.gutter-box {
+    background: hsl(0, 0%, 100%);
+    padding: 15px;
+}
+.gutter-box-search-bar {
+    background: hsl(0, 0%, 100%);
+    padding: 5px;
+}
+/* search bar */
+.search-item {
+    display: flex;
+}
+.search-item-label {
+    margin: auto;
+    text-align: right;
+    padding-right: 5px;
+}
+.search-item-group {
+    padding: 5px;
+}
+.search-button-bar {
+    text-align: center;
+}
